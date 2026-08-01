@@ -8,6 +8,5 @@ public class Day2 {
 		System.out.println("COMPANY WHERE IT WAS CREATED-sun microsystems");
 		//Create a Java program that displays five important milestones in the history of Java.
 		
-		
 	}
 }
